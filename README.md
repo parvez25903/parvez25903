@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="https://doctorbd.info"><img src="https://img.shields.io/badge/Portfolio-7F5AF0?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://fantastic-maamoul-166713.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-7F5AF0?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="https://github.com/parvez25903"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
 <a href="mailto:parveztarek4@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/b-p-parvez89/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
