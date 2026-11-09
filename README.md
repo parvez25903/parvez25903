@@ -1,17 +1,16 @@
-<!-- ================= HEADER ================= -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=MD%20PARVEZ%20ALI&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20%26%20Full-Stack%20Developer%20%7C%20Bangladesh%20🇧🇩&descSize=18&descAlignY=60" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=MD%20PARVEZ%20ALI&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Flutter%20and%20Full-Stack%20Developer&descSize=18&descAlignY=60" width="100%" alt="MD PARVEZ ALI" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F5AF0&center=true&vCenter=true&width=600&lines=Turning+Ideas+Into+Digital+Experiences;Flutter+%26+Full-Stack+Developer;Build+%E2%80%A2+Create+%E2%80%A2+Innovate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7F5AF0&center=true&vCenter=true&width=435&lines=Turning+Ideas+Into+Digital+Experiences;Flutter+and+Full-Stack+Developer;Build+%7C+Create+%7C+Innovate" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<a href="https://doctorbd.info"><img src="https://img.shields.io/badge/🌐_Portfolio-7F5AF0?style=for-the-badge" alt="Portfolio" /></a>
-<a href="https://github.com/parvez25903"><img src="https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-<a href="mailto:parveztarek4@gmail.com"><img src="https://img.shields.io/badge/📩_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://doctorbd.info"><img src="https://img.shields.io/badge/Portfolio-7F5AF0?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://github.com/parvez25903"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+<a href="mailto:parveztarek4@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/b-p-parvez89/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 </div>
