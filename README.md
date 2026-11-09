@@ -1,101 +1,187 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:071A2E,50:123C54,100:087F8C&text=MD%20PARVEZ%20ALI&fontSize=48&fontColor=FFFFFF&fontAlignY=40&desc=FLUTTER%20%7C%20FULL%20STACK%20DEVELOPER&descAlignY=65&animation=fadeIn" width="100%" /><img src="./assets/profile.jpg" width="170" alt="MD Parvez Ali" />MD PARVEZ ALI
+<div align="center">✦ MD PARVEZ ALI
 
-Flutter & Full-Stack Developer | Bangladesh 🇧🇩
+Flutter & Full-Stack Developer
 
-Building digital products that connect people, solve problems, and create impact.
+BANGLADESH 🇧🇩
 
-<a href="https://doctorbd.info"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0D9488?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="https://github.com/parvez25903"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/></a>
+Turning Ideas Into Digital Experiences.
 
-</div>---
+"FLUTTER" · "DART" · "REACT" · "JAVASCRIPT" · "NODE.JS"
 
-👨‍💻 ABOUT ME
+"🌐 Portfolio" (https://doctorbd.info) · "💻 GitHub" (https://github.com/parvez25903) · "📩 Email" (mailto:parveztarek4@gmail.com)
 
-Hello! I'm MD Parvez Ali, a developer from Bangladesh passionate about building modern mobile applications and full-stack web platforms.
+---
 
-I enjoy transforming ideas into practical digital products with clean UI, responsive design, and useful functionality.
+✧ BUILD • CREATE • INNOVATE ✧
+
+</div>01. WHO AM I?
+
+Hello! I'm MD Parvez Ali, a Flutter & Full-Stack Developer from Bangladesh.
+
+I'm passionate about developing modern mobile applications, responsive websites, and practical digital solutions.
+
+My goal is to transform ideas into useful products through technology, creativity, and continuous learning.
 
 - 📱 Flutter Mobile Application Development
-- 🌐 Full-Stack Web Development
+- 🌐 Responsive Web Development
 - ⚙️ REST API & Backend Integration
 - 🔥 Firebase & MongoDB
 - 🎨 Modern UI/UX Development
-- 🚀 Building real-world digital projects
+- 🚀 Real-world Software Projects
+
+02. MY TECHNICAL ARSENAL
+
+Mobile Development
+
+- Flutter
+- Dart
+- GetX
+- Provider
+- Riverpod
+
+Frontend Development
+
+- HTML5
+- CSS3
+- Tailwind CSS
+- JavaScript
+- React.js
+- Next.js
+
+Backend Development
+
+- Node.js
+- Express.js
+- REST APIs
+
+Database & Tools
+
+- Firebase
+- MongoDB
+- Git & GitHub
+- VS Code
+- Postman
+
+03. FEATURED PROJECTS
+
+🩺 01 — DoctorBD
+
+Healthcare Appointment Booking Platform
+
+A healthcare platform designed to connect patients with doctors and healthcare services.
+
+- Doctor discovery
+- Appointment booking
+- Healthcare information
+
+Technology: React, Node.js, JavaScript
+
+🔗 "Visit DoctorBD" (https://doctorbd.info)
 
 ---
 
-🧩 MY DIGITAL PROJECTS
+⚡ 02 — Electron
 
-<div align="center">01. 🩺 DOCTORBD
+Electronics Web Project
 
-<img src="./doctorbd-logo.png" width="180" alt="DoctorBD Logo"/>Healthcare Appointment Booking Platform
+A web-based electronics project.
 
-Connecting patients with doctors and healthcare services.
-
-<a href="https://doctorbd.info"><img src="https://img.shields.io/badge/EXPLORE%20DOCTORBD-Visit%20Website-087F8C?style=for-the-badge"/></a>
+🔗 "Explore Electron" (https://electron-ncu3.onrender.com)
 
 ---
 
-02. ⚡ ELECTRON
+🏥 03 — Chapai HealthLine
 
-<img src="./electron-logo.jpg" width="200" alt="Electron Logo"/>Electronics Web Project
+Local Healthcare Platform
 
-A digital project focused on electronics.
+A healthcare information and services project focused on Chapainawabganj.
 
-<a href="https://electron-ncu3.onrender.com"><img src="https://img.shields.io/badge/EXPLORE%20ELECTRON-Visit%20Website-2563EB?style=for-the-badge"/></a>
+Technology: HTML, CSS, JavaScript, Flutter
 
----
-
-03. 🏥 CHAPAI HEALTHLINE
-
-<img src="./chapai-healthline-logo.jpg" width="200" alt="Chapai HealthLine Logo"/>Local Healthcare Information Platform
-
-Healthcare information and services focused on Chapainawabganj.
-
-<a href="https://chapaihealthline.chapainawabganj.workers.dev"><img src="https://img.shields.io/badge/EXPLORE%20PROJECT-Visit%20Website-059669?style=for-the-badge"/></a>
+🔗 "Visit Chapai HealthLine" (https://chapaihealthline.chapainawabganj.workers.dev)
 
 ---
 
-04. 🤝 GOALDUBI YOUTH WELFARE ORGANIZATION
+💼 04 — ChakriOKhobor
 
-<img src="./goaldubi-logo.png" width="180" alt="Goaldubi Organization Logo"/>Islamic & Humanitarian Community Application
+Career & Job Information Platform
 
-A community-focused project combining Islamic content, village information, and humanitarian activities.
+A web project focused on job and career-related information.
+
+🔗 "Explore ChakriOKhobor" (https://chakriokhobor.onrender.com)
+
+---
+
+🕌 05 — Goaldubi Islamic App
+
+Islamic & Community Application
+
+A community-focused mobile application for a local youth welfare organization.
+
+Technology: Flutter & Dart
+
+---
+
+📚 06 — WordRise & Vocabulary Tracker
+
+Learning & Productivity Applications
+
+Web applications focused on English vocabulary learning and organization.
+
+🔗 "WordRise" (https://parvez25903.github.io/wordrise-rende)
+
+🔗 "Vocabulary Tracker" (https://parvez25903.github.io/Vocabulary-tracker)
+
+---
+
+04. GITHUB ANALYTICS
+
+<div align="center">My Development Journey
+
+<img src="https://github-readme-stats.vercel.app/api?username=parvez25903&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="100%" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvez25903&layout=compact&theme=tokyonight&hide_border=true" /><img src="https://streak-stats.demolab.com?user=parvez25903&theme=tokyonight&hide_border=true" width="100%" /></div>05. EXPLORE MY WORK
+
+<div align="center">Two GitHub Accounts · One Developer Journey
+
+"GitHub — parvez25903" (https://github.com/parvez25903)
+
+"GitHub — b-p-parvez89" (https://github.com/b-p-parvez89)
+
+"Explore All Repositories →" (https://github.com/parvez25903?tab=repositories)
 
 </div>---
 
-🛠️ TECHNOLOGY & SKILLS
+06. LET'S CONNECT
 
-<div align="center">Mobile Development
+I'm always interested in technology, collaboration, software development, and meaningful digital projects.
 
-<img src="https://skillicons.dev/icons?i=flutter,dart"/>Frontend Development
+📞 Phone & WhatsApp
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs"/>Backend & Database
+"+880 1843-469489" (https://wa.me/8801843469489)
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase"/>Development Tools
+📧 Email
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/></div>---
+"parveztarek4@gmail.com" (mailto:parveztarek4@gmail.com)
 
-📊 GITHUB STATISTICS
+💼 LinkedIn
 
-<div align="center"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=parvez25903&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvez25903&layout=compact&theme=tokyonight&hide_border=true"/><br/><br/>
+"Connect with me" (https://www.linkedin.com/in/b-p-parvez89/)
 
-<img width="70%" src="https://streak-stats.demolab.com?user=parvez25903&theme=tokyonight&hide_border=true"/></div>---
+🌐 Facebook
 
-📈 CONTRIBUTION ACTIVITY
+"Visit my Facebook Profile" (https://www.facebook.com/share/1A9Vx1KW3c/)
 
-<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=parvez25903&theme=tokyo-night&hide_border=true&area=true" width="100%"/></div>---
+💻 GitHub
 
-🌍 CONNECT WITH ME
+"github.com/parvez25903" (https://github.com/parvez25903)
 
-<div align="center"><a href="https://github.com/parvez25903"><img src="https://img.shields.io/badge/GitHub-parvez25903-181717?style=for-the-badge&logo=github"/></a>
+---
 
-<a href="https://github.com/b-p-parvez89"><img src="https://img.shields.io/badge/Second%20GitHub-b--p--parvez89-334155?style=for-the-badge&logo=github"/></a>
+<div align="center">✦ THANK YOU FOR VISITING ✦
 
-<a href="https://doctorbd.info"><img src="https://img.shields.io/badge/Portfolio-DoctorBD-0D9488?style=for-the-badge&logo=googlechrome"/></a>
+Think. Build. Improve. Repeat.
 
-<br/><br/>
+MD PARVEZ ALI
 
-"Turning ideas into reality, one project at a time."
+Flutter & Full-Stack Developer | Bangladesh 🇧🇩
 
-<img src="https://komarev.com/ghpvc/?username=parvez25903&label=PROFILE%20VISITORS&color=0D9488&style=for-the-badge"/></div>
+</div>
