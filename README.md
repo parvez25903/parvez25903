@@ -1,26 +1,28 @@
-<div align="center">✦ MD PARVEZ ALI
+<!-- ================= HEADER ================= -->
+<div align="center">
 
-Flutter & Full-Stack Developer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=MD%20PARVEZ%20ALI&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20%26%20Full-Stack%20Developer%20%7C%20Bangladesh%20🇧🇩&descSize=18&descAlignY=60" width="100%" alt="header" />
 
-BANGLADESH 🇧🇩
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F5AF0&center=true&vCenter=true&width=600&lines=Turning+Ideas+Into+Digital+Experiences;Flutter+%26+Full-Stack+Developer;Build+%E2%80%A2+Create+%E2%80%A2+Innovate" alt="Typing SVG" />
+</a>
 
-Turning Ideas Into Digital Experiences.
+<br/>
 
-"FLUTTER" · "DART" · "REACT" · "JAVASCRIPT" · "NODE.JS"
+<a href="https://doctorbd.info"><img src="https://img.shields.io/badge/🌐_Portfolio-7F5AF0?style=for-the-badge" alt="Portfolio" /></a>
+<a href="https://github.com/parvez25903"><img src="https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+<a href="mailto:parveztarek4@gmail.com"><img src="https://img.shields.io/badge/📩_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/b-p-parvez89/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
-"🌐 Portfolio" (https://doctorbd.info) · "💻 GitHub" (https://github.com/parvez25903) · "📩 Email" (mailto:parveztarek4@gmail.com)
+</div>
 
 ---
 
-✧ BUILD • CREATE • INNOVATE ✧
+## 👨‍💻 Who Am I?
 
-</div>01. WHO AM I?
+Hello! I'm **Md Parvez Ali**, a **Flutter & Full-Stack Developer** from Bangladesh.
 
-Hello! I'm MD Parvez Ali, a Flutter & Full-Stack Developer from Bangladesh.
-
-I'm passionate about developing modern mobile applications, responsive websites, and practical digital solutions.
-
-My goal is to transform ideas into useful products through technology, creativity, and continuous learning.
+I'm passionate about developing modern mobile applications, responsive websites, and practical digital solutions. My goal is to transform ideas into useful products through technology, creativity, and continuous learning.
 
 - 📱 Flutter Mobile Application Development
 - 🌐 Responsive Web Development
@@ -29,159 +31,151 @@ My goal is to transform ideas into useful products through technology, creativit
 - 🎨 Modern UI/UX Development
 - 🚀 Real-world Software Projects
 
-02. MY TECHNICAL ARSENAL
+---
 
-Mobile Development
+## 🛠️ My Technical Arsenal
 
-- Flutter
-- Dart
-- GetX
-- Provider
-- Riverpod
+<div align="center">
 
-Frontend Development
+### 📱 Mobile Development
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=flutter,dart&perline=10" alt="Mobile" />
+</a>
+<br/>
+<sub>Flutter · Dart · GetX · Provider · Riverpod</sub>
 
-- HTML5
-- CSS3
-- Tailwind CSS
-- JavaScript
-- React.js
-- Next.js
+<br/><br/>
 
-Backend Development
+### 🎨 Frontend Development
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs&perline=10" alt="Frontend" />
+</a>
 
-- Node.js
-- Express.js
-- REST APIs
+<br/><br/>
 
-Database & Tools
+### ⚙️ Backend Development
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,express&perline=10" alt="Backend" />
+</a>
+<br/>
+<sub>Node.js · Express.js · REST APIs</sub>
 
-- Firebase
-- MongoDB
-- Git & GitHub
-- VS Code
-- Postman
+<br/><br/>
 
-03. FEATURED PROJECTS
+### 🗄️ Database & Tools
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=firebase,mongodb,git,github,vscode,postman&perline=10" alt="Tools" />
+</a>
 
-🩺 01 — DoctorBD
-
-Healthcare Appointment Booking Platform
-
-A healthcare platform designed to connect patients with doctors and healthcare services.
-
-- Doctor discovery
-- Appointment booking
-- Healthcare information
-
-Technology: React, Node.js, JavaScript
-
-🔗 "Visit DoctorBD" (https://doctorbd.info)
+</div>
 
 ---
 
-⚡ 02 — Electron
+## 🚀 Featured Projects
 
-Electronics Web Project
-
-A web-based electronics project.
-
-🔗 "Explore Electron" (https://electron-ncu3.onrender.com)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🩺 DoctorBD</h3>
+      <b>Healthcare Appointment Booking Platform</b>
+      <p>Connects patients with doctors and healthcare services.</p>
+      <ul>
+        <li>Doctor discovery</li>
+        <li>Appointment booking</li>
+        <li>Healthcare information</li>
+      </ul>
+      <p><img src="https://skillicons.dev/icons?i=react,nodejs,js" alt="stack" /></p>
+      <a href="https://doctorbd.info"><b>🔗 Visit DoctorBD</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏥 Chapai HealthLine</h3>
+      <b>Local Healthcare Platform</b>
+      <p>A healthcare information and services project focused on Chapainawabganj.</p>
+      <p><img src="https://skillicons.dev/icons?i=html,css,js,flutter" alt="stack" /></p>
+      <a href="https://chapaihealthline.chapainawabganj.workers.dev"><b>🔗 Visit Chapai HealthLine</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ Electron</h3>
+      <b>Electronics Web Project</b>
+      <p>A web-based electronics project.</p>
+      <a href="https://electron-ncu3.onrender.com"><b>🔗 Explore Electron</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💼 ChakriOKhobor</h3>
+      <b>Career & Job Information Platform</b>
+      <p>A web project focused on job and career-related information.</p>
+      <a href="https://chakriokhobor.onrender.com"><b>🔗 Explore ChakriOKhobor</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🕌 Goaldubi Islamic App</h3>
+      <b>Islamic & Community Application</b>
+      <p>A community-focused mobile app for a local youth welfare organization.</p>
+      <p><img src="https://skillicons.dev/icons?i=flutter,dart" alt="stack" /></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📚 WordRise & Vocabulary Tracker</h3>
+      <b>Learning & Productivity Apps</b>
+      <p>Web applications for English vocabulary learning and organization.</p>
+      <a href="https://parvez25903.github.io/wordrise-rende"><b>🔗 WordRise</b></a><br/>
+      <a href="https://parvez25903.github.io/Vocabulary-tracker"><b>🔗 Vocabulary Tracker</b></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-🏥 03 — Chapai HealthLine
+## 📊 GitHub Analytics
 
-Local Healthcare Platform
+<div align="center">
 
-A healthcare information and services project focused on Chapainawabganj.
+<img src="https://github-readme-stats.vercel.app/api?username=parvez25903&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="100%" alt="GitHub Stats" />
 
-Technology: HTML, CSS, JavaScript, Flutter
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvez25903&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
 
-🔗 "Visit Chapai HealthLine" (https://chapaihealthline.chapainawabganj.workers.dev)
+<img src="https://streak-stats.demolab.com?user=parvez25903&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
 
----
-
-💼 04 — ChakriOKhobor
-
-Career & Job Information Platform
-
-A web project focused on job and career-related information.
-
-🔗 "Explore ChakriOKhobor" (https://chakriokhobor.onrender.com)
+</div>
 
 ---
 
-🕌 05 — Goaldubi Islamic App
+## 🌍 Explore My Work
 
-Islamic & Community Application
+<div align="center">
 
-A community-focused mobile application for a local youth welfare organization.
+**Two GitHub Accounts · One Developer Journey**
 
-Technology: Flutter & Dart
+<a href="https://github.com/parvez25903"><img src="https://img.shields.io/badge/GitHub-parvez25903-181717?style=for-the-badge&logo=github" alt="parvez25903" /></a>
+<a href="https://github.com/b-p-parvez89"><img src="https://img.shields.io/badge/GitHub-b--p--parvez89-181717?style=for-the-badge&logo=github" alt="b-p-parvez89" /></a>
+<br/>
+<a href="https://github.com/parvez25903?tab=repositories"><b>Explore All Repositories →</b></a>
 
----
-
-📚 06 — WordRise & Vocabulary Tracker
-
-Learning & Productivity Applications
-
-Web applications focused on English vocabulary learning and organization.
-
-🔗 "WordRise" (https://parvez25903.github.io/wordrise-rende)
-
-🔗 "Vocabulary Tracker" (https://parvez25903.github.io/Vocabulary-tracker)
+</div>
 
 ---
 
-04. GITHUB ANALYTICS
-
-<div align="center">My Development Journey
-
-<img src="https://github-readme-stats.vercel.app/api?username=parvez25903&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="100%" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvez25903&layout=compact&theme=tokyonight&hide_border=true" /><img src="https://streak-stats.demolab.com?user=parvez25903&theme=tokyonight&hide_border=true" width="100%" /></div>05. EXPLORE MY WORK
-
-<div align="center">Two GitHub Accounts · One Developer Journey
-
-"GitHub — parvez25903" (https://github.com/parvez25903)
-
-"GitHub — b-p-parvez89" (https://github.com/b-p-parvez89)
-
-"Explore All Repositories →" (https://github.com/parvez25903?tab=repositories)
-
-</div>---
-
-06. LET'S CONNECT
+## 🤝 Let's Connect
 
 I'm always interested in technology, collaboration, software development, and meaningful digital projects.
 
-📞 Phone & WhatsApp
+<div align="center">
 
-"+880 1843-469489" (https://wa.me/8801843469489)
+<a href="https://wa.me/8801843469489"><img src="https://img.shields.io/badge/WhatsApp-+880_1843--469489-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+<a href="mailto:parveztarek4@gmail.com"><img src="https://img.shields.io/badge/Email-parveztarek4@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<br/>
+<a href="https://www.linkedin.com/in/b-p-parvez89/"><img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.facebook.com/share/1A9Vx1KW3c/"><img src="https://img.shields.io/badge/Facebook-Visit_Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<a href="https://github.com/parvez25903"><img src="https://img.shields.io/badge/GitHub-parvez25903-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
 
-📧 Email
+<br/><br/>
 
-"parveztarek4@gmail.com" (mailto:parveztarek4@gmail.com)
+**✦ THANK YOU FOR VISITING ✦**
 
-💼 LinkedIn
+*Think. Build. Improve. Repeat.*
 
-"Connect with me" (https://www.linkedin.com/in/b-p-parvez89/)
-
-🌐 Facebook
-
-"Visit my Facebook Profile" (https://www.facebook.com/share/1A9Vx1KW3c/)
-
-💻 GitHub
-
-"github.com/parvez25903" (https://github.com/parvez25903)
-
----
-
-<div align="center">✦ THANK YOU FOR VISITING ✦
-
-Think. Build. Improve. Repeat.
-
-MD PARVEZ ALI
-
-Flutter & Full-Stack Developer | Bangladesh 🇧🇩
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
