@@ -110,9 +110,9 @@ I'm passionate about developing modern mobile applications, responsive websites,
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>HisebKpri</h3>
+      <h3>HisebKori</h3>
       <b>Personal Income and Expense Tracker</b>
-      <p>A Personal Money Tracker for using HTML, CSS, TAILWIND,  AND S, mf DATABASE re Browser L9cal storage</p>
+      <p>A Personal Money Tracker for using HTML, CSS, TAILWIND,  AND JS, and DATABASE re Browser Local storage</p>
       <b><a href="https://parvez25903.github.io/Expense-Tracker/">HisebKori</a></b>
     </td>
     <td width="50%" valign="top">
